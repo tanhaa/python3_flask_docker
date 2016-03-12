@@ -1,0 +1,11 @@
+ipython==3.0.0
+
+pony==0.6.1
+psycopg2==2.6
+PyYAML==3.11
+invoke==0.10.1
+redis==2.10.3
+celery[redis]==3.1.17
+Flask==0.10.1
+boto==2.36.0
+requests==2.6.0
